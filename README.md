@@ -13,20 +13,8 @@
 ```
 
 
-<style>
-    body {
-        font-size: 14px;
-        font-family: Montserrat;
 
-    }
-        h1, h2, h3, h4, h5, h6 {
-        font-family: Montserrat;
-    }
-</style>
-
-
-
-# <p style="text-align:center;font-family:Montserrat;">Bangladesh Cricket Team Win% Analysis</p>
+# <h1 style="text-align:center;font-family:Montserrat;">Bangladesh Cricket Team Win% Analysis</h1>
 
 <a><img src="https://upload.wikimedia.org/wikipedia/en/5/5c/Bangladesh_Cricket_Board_Logo.svg" width="200" align="center"></a>
 
@@ -8582,7 +8570,7 @@ line_graph_ten_years(t20_df_10_years["Year"],t20_df_10_years["Ratio"],odi_df_10_
 
 
     
-![png](output_170_0.png)
+![jpg](images/last_10_years_comparision.jpg)
     
 
 
